@@ -1,4 +1,5 @@
 # IDAssignment1-K/DA 
+
 This is a webpage for advertising the virtual girls' group--K/DA. You can browse their newest albums and listen to the albums at this website. Moreover,you could know more of the K/DA members through their descriptions.
 
 ## Design process
@@ -27,9 +28,9 @@ All contents are copied from The universe of league of legends https://universe.
 
 ### Media
 Photos and videos are obtained from below website
-www.uhdpaper.com
-https://www.youtube.com/watch?v=3VTkBuxU4yk
-https://www.youtube.com/watch?v=vuj-1X3KkFc
-https://www.youtube.com/watch?v=RkID8_gnTxw
-https://www.youtube.com/watch?v=UOxkGD8qRB4
+1.www.uhdpaper.com
+2.https://www.youtube.com/watch?v=3VTkBuxU4yk
+3.https://www.youtube.com/watch?v=vuj-1X3KkFc
+4.https://www.youtube.com/watch?v=RkID8_gnTxw
+5.https://www.youtube.com/watch?v=UOxkGD8qRB4
 
