@@ -1,10 +1,65 @@
-.background{
+.background1{
     background-image: url("https://i.redd.it/5uumc0ts84r51.png");
-    height: 1000px;
+    height: 50%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;
+}
+.background1_1{
+    background-color: black;
+    height: 50%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.background2{
+    background-image: url(pages/images/bk.jpg);
+    height: 10%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background3{
+    background-image: url(pages/images/kdagp.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.backgroundAhri{
+    background-image: url(pages/images/ahri3.jpg);
+    height: 80%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.backgroundAkali{
+    background-image: url(pages/images/akali3.jpg);
+    height: 80%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.backgroundKaisa{
+    background-image: url(pages/images/kaisa3.jpg);
+    height: 80%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.backgroundEve{
+    background-image: url(pages/images/evelynn3.jpg);
+    height: 80%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.backgroundSera{
+    background-image: url(pages/images/sera3.jpg);
+    height: 80%;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
 }
 
 .button{
@@ -13,24 +68,27 @@ color: white;
 font-family: 'Courier New', Courier, monospace;
 text-decoration: none;
 font-size: 45px;
-cursor: pointer;
-border-radius: 80%;
-transition-duration: 0.9s;
-position: relative;
+border-radius: 90%;
+transition-duration: 0.4s;
+position: absolute;
+top:30%;
+left:43%; 
 }
 
-.button1:hover {
+.button:hover {
 background-color: rgba(193, 128, 206, 0.932);
 color: white;
 }
 
 .navbar {
-    font-size: 40px;
-    cursor: pointer;
-    font-family: fantasy;
-    overflow: hidden;
-    background-color: transparent;
-    }
+display: flex;
+justify-content: center;
+font-size: 40px;
+cursor: pointer;
+font-family: fantasy;
+overflow: hidden;
+background-color: transparent;
+}
 
 .navbar a.active {
 background-color: #f1258b;
@@ -61,6 +119,10 @@ background-color: transparent;
 font-family: inherit;
 margin: 0;
 }
+.dropdown .active{
+    background-color: #f1258b;
+    color: white;
+}
 
 .navbar a:hover, .dropdown:hover .dropbtn {
 background-color: rgb(130, 67, 231);
@@ -71,8 +133,9 @@ display: none;
 position: absolute;
 background-color:transparent;
 min-width: 139px;
-box-shadow: 0px 8px 16px 0px rgba(173, 82, 82, 0.2);
+box-shadow: 0px 8px 16px 0px rgba(7, 4, 4, 0.2);
 z-index: 1;
+font-size: 30px;
 }
 
 .dropdown-content a {
@@ -85,44 +148,83 @@ text-align: left;
 }
 
 .dropdown-content a:hover {
-background-color: rgb(65, 4, 4);
+background-color: rgb(11, 33, 236);
 }
 
 .dropdown:hover .dropdown-content {
 display: block;
 }
 
-.container{
-    top:10%;
+.head{
+    top:8%;
+    display: flex;
+    justify-content: center;
+    color: white;
+    position: relative;
+    font-size: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.footer {
+    position: fixed;
+    height: 7%;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(20, 19, 19);
+    color: white;
+    text-align: center;
+ }
+.imageForIndex1{
+    background-color: rgba(1, 6, 10, 0.692);
+    position: relative;
+    top:20%;
     display: flex;
     justify-content: center;
 }
-.container2{
+.imageForIndex2{
     top:19%;
     display: grid;
     justify-content: space-around;
-}
-.container3{
-    display: flex;
-    width: 15%;
-    left: 43%;
-    top:40%;
-    justify-content: center;
-}
-.head{
-    color: white;
-    position: relative;
-    font-size: 50px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-.image{
+    background-color: rgba(1, 6, 10, 0.212);
     position: relative;
 }
-.container4{
-    position: relative;
+
+.videoForAlbum{
+    top: 20%;
     display: flex;
     justify-content: center;
+    position: relative;
 }
+
+hr.style{
+    overflow: visible;
+    height: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px 0 0 0;
+    border-radius: 10px;
+}
+
 .imageSize{
-    width: 600px;height: 600px
+    width: 70%;
+    width: 70%;
+}
+
+.centered{
+    display: flex;
+    justify-content: center;
+}
+.font1{
+    font-size: 100px;
+    color: aliceblue;
+    font-family: cursive;
+}
+.para{
+    display: flex;
+    font-size: 40px;
+    color: aliceblue;
+    font-family: cursive;
+    justify-content: center;
+    padding: 15%;
+
 }
