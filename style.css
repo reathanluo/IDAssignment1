@@ -5,6 +5,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .background1_1{
     background-color: black;
     height: 50%;
@@ -74,6 +75,32 @@ position: absolute;
 top:30%;
 left:43%; 
 }
+@media screen and (max-width:500px){
+    .button{
+        background-color: rgba(45, 3, 53, 0.932);
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        text-decoration: none;
+        font-size: 40px;
+        border-radius: 90%;
+        transition-duration: 0.4s;
+        position: relative;
+        top:60%;
+        left:30%; 
+    }
+    .videoForAlbum{
+        width: 375px;
+        height:667px;
+    }
+    .para{
+        display: flex;
+        font-size: 10px;
+        color: aliceblue;
+        font-family: cursive;
+        justify-content: center;
+    }
+
+}
 
 .button:hover {
 background-color: rgba(193, 128, 206, 0.932);
@@ -83,8 +110,7 @@ color: white;
 .navbar {
 display: flex;
 justify-content: center;
-font-size: 40px;
-cursor: pointer;
+font-size: 20px;
 font-family: fantasy;
 overflow: hidden;
 background-color: transparent;
@@ -135,7 +161,7 @@ background-color:transparent;
 min-width: 139px;
 box-shadow: 0px 8px 16px 0px rgba(7, 4, 4, 0.2);
 z-index: 1;
-font-size: 30px;
+font-size: 15px;
 }
 
 .dropdown-content a {
