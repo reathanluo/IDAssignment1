@@ -21,6 +21,27 @@ You may go to this link to see the prototype of my XD design https://xd.adobe.co
 
 ## Testing
 The K/DA website has been tested on chrome and firefox browsers. And both the browsers displayed the same content. 
+1. At the first page, click "Exlpore" can go to "Home"
+2. The navagation bar at each sites are working well, can redirect to the aimed site.
+3. At the "Home" page, click each tiktok,twitter,instagram,spotify,apple music and youtube music icon will be redirect to their respective sites.
+4. At "Album" page, the four embeded videos are working well with clikc.
+5. At "The girls" page, the five pages of the K/DA members are in the same format.
+
+## Commits
+* Commit 1:Create the "Index" page.Add the basic html code for the "Index" page.
+* Commit 2:Add css for the "Index" page
+
+* Commit 3:Create the "Album" page and "The girls" page,add some html code to "Album" page.
+
+* Commit 4:Add css to "Album" page, add html code and css to "Ahri" page.
+
+* Commit 5:Add html code and css to the rest of the pages
+
+* Commit 6:Review the pages and correct certain errors.
+
+* Commit 7:Redesigned the css for some pages.
+
+* Commit 8:Add @media to ensure the responsive mobile view
 
 ## Credits
 
