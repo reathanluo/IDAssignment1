@@ -9,10 +9,10 @@ You may go to this link to see the prototype of my XD design https://xd.adobe.co
 ## Features
 
 ### Existing Features
-1.You can click the link icons in middle of home page to follow K/DA's instagram,twitter and tiktok account.
-2.You can click the link icons in bottom of home page to listen to K/DA's newest songs.
-3.At album pages, you can watch K/DA's music videos
-4.You can get more information of each K/DA team members under "The girls" page
+1. You can click the link icons in middle of home page to follow K/DA's instagram,twitter and tiktok account.
+2. You can click the link icons in bottom of home page to listen to K/DA's newest songs.
+3. At album pages, you can watch K/DA's music videos
+4. You can get more information of each K/DA team members under "The girls" page
 
 ### Features Left to Implement
 1.A real time twitter/instagram embed
@@ -20,6 +20,7 @@ You may go to this link to see the prototype of my XD design https://xd.adobe.co
 3.Picture gallary of the K/DA members
 
 ## Testing
+
 
 ## Credits
 
