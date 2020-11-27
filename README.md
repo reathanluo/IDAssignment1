@@ -20,7 +20,7 @@ You may go to this link to see the prototype of my XD design https://xd.adobe.co
 3.Picture gallary of the K/DA members
 
 ## Testing
-
+The K/DA website has been tested on chrome and firefox browsers. And both the browsers displayed the same content. 
 
 ## Credits
 
@@ -29,9 +29,9 @@ All contents are copied from The universe of league of legends https://universe.
 
 ### Media
 Photos and videos are obtained from below website
-1.www.uhdpaper.com
-2.https://www.youtube.com/watch?v=3VTkBuxU4yk
-3.https://www.youtube.com/watch?v=vuj-1X3KkFc
-4.https://www.youtube.com/watch?v=RkID8_gnTxw
-5.https://www.youtube.com/watch?v=UOxkGD8qRB4
+1. www.uhdpaper.com
+2. https://www.youtube.com/watch?v=3VTkBuxU4yk
+3. https://www.youtube.com/watch?v=vuj-1X3KkFc
+4. https://www.youtube.com/watch?v=RkID8_gnTxw
+5. https://www.youtube.com/watch?v=UOxkGD8qRB4
 
